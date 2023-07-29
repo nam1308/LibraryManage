@@ -1,0 +1,9 @@
+.select2-selection--multiple {
+    padding-bottom:  8px !important;
+}
+.select2-selection__choice {
+    margin-top: 0 !important;
+}
+.w-100 {
+    width:100% !important;
+}

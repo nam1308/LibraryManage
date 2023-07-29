@@ -1,0 +1,42 @@
+   .modal-borrow {
+    --bs-modal-padding: 0;
+    --bs-modal-header-border-color: none;
+    --bs-modal-footer-border-width: 0;
+    }
+    .btn-light-borrow:hover {
+        background-color: #ed4b82;
+    }
+
+    .btn-light-borrow {
+        background-color: #EEEEEE;
+    }
+    .form-control-borrow {
+        padding-left: 5px;
+        border: 1px solid #CCCCCC;
+        border-radius: 5px;
+        margin: 3px 5px;
+        box-sizing: border-box;
+    }
+    .form-control-borrow:focus {
+        border-color: #0099FF;
+    }
+    .col-md-3-borrow {
+        color: black;
+        padding-left: 1.5rem;
+    }
+    .modal-content-borrow {
+		border: 1px solid;
+		border-radius: 20px;
+	}
+	.form-check-auto {
+		display: block;
+		min-height: auto;
+		padding-left: 27%;
+		margin-bottom: 0.125rem;
+	}
+	.form-control-borrow {
+		width: 98%;
+	}
+    .modal_close:hover {
+        background-color: #ed4b82 !important;
+    }
